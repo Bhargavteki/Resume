@@ -10,11 +10,11 @@ h4{color:33FF4E}
 <h1 style="color: red";><b><i><u><center>RESUME</b></i></u></center></h1>
 <h1>TEKI BHARGAV</h1>
 <img src="https://avatars.githubusercontent.com/u/94949319?s=400&u=8ec44d60d3a088636382434eb120d9074684374f&v=4" align="right" width="150" height="100"/>
-<h4>EMAIL: bhargavteki9376@gmail.com </h4>
+<h4>EMAIL: bhargavteki9376@gmail.com</h4>
 <h4>CONTACT NUMBER: 9550559266</h4>
 <h4>CODECHEF USERNAME: bhargav5995</h4>
 <h4>HOBBIES: Watching series, listening music</h4>
-<a href="https://github.com/">mygithub.com</a>
+<a href="https://github.com/">Github</a>
 <p>At present i am studying 2nd year of B.Tech at V.R.S.E.C in the Branch of Information Technology After then i have completed my intermediate in Narayana Junior college and also i have completed 10th Class in Bhashyam Public School in Bhavanipuram Branch, at present My short-term goal is to Become Best in Coding and My middle-term goal is To get best rank in any Coding platform and My long-term goal is to get placed in AMAZON Company</p>
 <h4>DOB: 02-05-2002</h4>
 <h4>AGE: 19</h4>
