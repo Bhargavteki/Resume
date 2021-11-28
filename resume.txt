@@ -2,7 +2,8 @@
 <head>
 <title>RESUME</title>
 <style>
-a{color: blue}
+a{color: blue ;
+text-decoraton:none;}
 body{background-color:33EEFF}
 h4{color:33FF4E}
 </style></head>
